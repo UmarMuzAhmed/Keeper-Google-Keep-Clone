@@ -1,5 +1,4 @@
 # Keeper-Google-Keep-Clone
-# Google Keep Clone - React
 
 This is a simple Google Keep clone built using React.This frontend application allows users to create and manage notes, just like the popular Google Keep app.
 
